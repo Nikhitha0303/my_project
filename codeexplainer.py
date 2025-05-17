@@ -5,7 +5,7 @@ import os
 
 # Configure Gemini client
 #genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
-genai.configure(api_key="AIzaSyBTXbOpIVuvwnmU-NYSkXMB2J46L4sAwjE")
+genai.configure(api_key="")
 
 # Page setup
 st.set_page_config(page_title="AI Code Explainer", page_icon="🚀")
